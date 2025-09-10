@@ -1,4 +1,4 @@
-# Toy-Tee-World                                                                                                                                                                 # Toy-Tee-World - Multi Page Website
+# Toy-Tee-World  -  Multi Page Website
 A simple multi-page merchandise store built with **HTML** and **CSS**.  
 It features themed product pages for **Avengers T-Shirts**, **Disney Dolls**, and **IPL Jerseys**, each showcasing multiple products with prices, ratings, and add-to-cart buttons.
 
